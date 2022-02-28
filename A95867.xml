@@ -1,0 +1,361 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tvvo sermons preached: one before the Right Honorable House of Lords, on their publick fast, May 26. 1647. The other, before the Honorable House of Commons, on their publick fast, in Margarets Church in Westminster, Septemb. 29. 1647. / By Thomas Valentine one of the Assembly of Divines, and minister in Chalfort in the county of Bucks.</title>
+            <author>Valentine, Thomas, 1585 or 6-1665?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95867</idno>
+            <idno type="STC">Wing V27</idno>
+            <idno type="STC">Thomason E409_13</idno>
+            <idno type="STC">ESTC R204423</idno>
+            <idno type="EEBO-CITATION">99863917</idno>
+            <idno type="PROQUEST">99863917</idno>
+            <idno type="VID">161193</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95867)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161193)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E409[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tvvo sermons preached: one before the Right Honorable House of Lords, on their publick fast, May 26. 1647. The other, before the Honorable House of Commons, on their publick fast, in Margarets Church in Westminster, Septemb. 29. 1647. / By Thomas Valentine one of the Assembly of Divines, and minister in Chalfort in the county of Bucks.</title>
+                  <author>Valentine, Thomas, 1585 or 6-1665?</author>
+               </titleStmt>
+               <extent>[2], 22, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by M S. for John Rothwell at the Sun and Fountain in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Consists only of the sermon preached before the House of Commons on Sept. 29, 1647.</note>
+                  <note>The last leaf is blank.</note>
+                  <note>Imperfect: staining on title page.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Revelation III, 18 --  Sermons --  Early works to 1800.</term>
+               <term>Fast-day sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161193:1" rendition="simple:additions"/>
+            <p>TVVO SERMONS PREACHED: One before the Right Honorable Houſe of LORDS, On their Publick <hi>Faſt, May</hi> 26. 1647.</p>
+            <p>THE OTHER, Before the Honorable Houſe of COMMONS, On their Publick <hi>Faſt,</hi> in <hi>Margarets</hi> Church in <hi>Weſtminſter,</hi> Septemb. 29. 1647.</p>
+            <p>
+               <hi>By</hi> THOMAS VALENTINE one of the Aſſembly of <hi>Divines,</hi> and Miniſter in <hi>Chalfort</hi> in the County of <hi>Bucks.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>M S.</hi> for <hi>John Rothwell</hi> at the <hi>Sun</hi> and <hi>Fountain</hi> in <hi>Pauls</hi> Church-yard. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:161193:2"/>
+            <pb n="1" facs="tcp:161193:2"/>
+            <head>A SERMON Preached at <hi>Westminster</hi> before the Honourable Houſe of Commons at their Publike Faſt, <hi>Septemb.</hi> 29. 1647.</head>
+            <epigraph>
+               <bibl>
+                  <hi>REVEL. 3.18.</hi>
+               </bibl>
+               <q>I counſell thee to buy of me gold tried in the fire, that thou mayeſt be rich, and white raiment that thou mayeſt be cloth<g ref="char:EOLhyphen"/>ed, and that the ſhame of thy nakedneſſe appeare not, and a<g ref="char:EOLhyphen"/>noint thine eyes with eye-ſalve, that thou mayeſt ſee.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He Title of the Booke tells you, It is <hi>the Re<g ref="char:EOLhyphen"/>velation of John,</hi> and <hi>John</hi> tells you <hi>chap.</hi> 1. <hi>verſ.</hi> 1. It is <hi>the Revelation of Jeſus Chriſt,</hi> which he vouchſafed to his Servant <hi>John,</hi> when he was baniſhed into the Ile <hi>Patmos,</hi> by the crueltie of <hi>Domitian</hi> the Emperour: Wherein all things neceſſary to be knowne from that time, to the end of the world are revealed. In which Booke (as in <hi>Pauls</hi> Epiſtles) many things, nay almoſt all, are hard to
+<pb n="2" facs="tcp:161193:3"/> be underſtood. Yet that part which containes the Epiſtles to the ſeven Churches, having in it Reproofes, Admoni<g ref="char:EOLhyphen"/>tions, Exhortations, and Counſell, is more eaſie and plaine.</p>
+            <p>This Text is part of that Epiſtle which was ſent to the laſt of the ſeven Churches <hi>viz.</hi> luke-warme <hi>Laodicea,</hi> the particulars charged upon this Church and the reſt, are more eaſie to underſtand. The difficultie is, in determining whether theſe <hi>Aſian</hi> Churches doe typifie other Churches, and what they are, and where they are planted. For the probabilitie of the opinion, that ſome were aimed at in them, divers reaſons might be alleged, as this, that this Booke is not a bare Narration of things heard and ſeene, but a Prophecie of things that were afterward to come to paſſe. Others would have the ſtate of the Church in gene<g ref="char:EOLhyphen"/>rall deciphered out, but with Reference to particular times, as <hi>Epheſus</hi> points out the purer primitive times, which did retaine their integritie, but yet the myſtery of iniquitie be<g ref="char:EOLhyphen"/>gan to worke, ſo that there was need of caution.</p>
+            <p>
+               <hi>Pergamus</hi> and <hi>Smirna,</hi> point at thoſe times when Aria<g ref="char:EOLhyphen"/>niſme and Popery got up, and did domineere. <hi>Thiatira</hi> re<g ref="char:EOLhyphen"/>ſembles the times, wherein the Church began to riſe, and get from under the power of Antichriſt; and they being in their riſe, their workes are commended to bee more at laſt than firſt. <hi>Sardis</hi> and <hi>Philadelphia,</hi> ſet out the Chur<g ref="char:EOLhyphen"/>ches that did not reſt in ſome beginnings of Reformation, but made better progreſſe. <hi>Laodicea</hi> is the laſt, and typifies a Church, which having eſcaped <hi>Babell,</hi> did reſt in their Gifts, Calling, and Profeſſion, and did judge themſelves rich, whereas ſhe was poore, blind, and miſerable, and this Church was in a middle way, partly <hi>Romiſh,</hi> and partly Re<g ref="char:EOLhyphen"/>formed, not very good, nor extremely bad, ſhe did adhere and cleave too much to <hi>Rome,</hi> and did pleaſe her ſelfe in her Pompe; therefore ſhe is taxed, and ſecretly threatned to be ſpued out.</p>
+            <p>The Epiſtle to this Church begins <hi>verſ.</hi> 14. wherein is the preface or inſcription, containing the Perſon writing;
+<pb n="3" facs="tcp:161193:3"/> 
+               <hi>Amen;</hi> the faithfull Witneſſe, the beginning of the Creati<g ref="char:EOLhyphen"/>on of God, to the Angell of <hi>Laodicea:</hi> The matter of the Epiſtle is,</p>
+            <p>Firſt, A diſcovery of the Sin, <hi>verſ.</hi> 15.17. <hi>Thou art nei<g ref="char:EOLhyphen"/>ther cold nor hot, but luke-warme; And thou ſayeſt, I am rich, and increaſed with goods, and haſt need of nothing.</hi>
+            </p>
+            <p>Secondly, The reproofe and threatning, <hi>verſ.</hi> 16. <hi>Becauſe thou ſayeſt ſo, and art luke-warme, therefore I will ſpue thee out of my mouth.</hi>
+            </p>
+            <p>Thirdly, The counſell given, and that is the Text which I have read.</p>
+            <p>Fourthly, There is a gracious promiſe made to this Church, <hi>verſ.</hi> 20, 21. <hi>If any man heare my voice, and open the doore, I will come in to him, and will ſuppe with him, and he with me.</hi>
+            </p>
+            <p>The forme of my Text is a Counſell.</p>
+            <p>The Matter is a Dutie which this Church is counſelled unto.</p>
+            <p>Firſt, The Dutie is to buy.</p>
+            <p>Secondly, The object of it, or what we are to buy; And that is ſet out three wayes.</p>
+            <p>Firſt, What it is; And it is a three-fold Commodity.</p>
+            <p n="1">1. <hi>Gold.</hi> 2. <hi>Raiment.</hi> 3. <hi>Eye-ſalve.</hi>
+            </p>
+            <p>Secondly, What kind; And they are excellent, as ap<g ref="char:EOLhyphen"/>peares by the qualities of them. 1. <hi>Tried Gold.</hi> 2. <hi>White Raiment.</hi> 3. <hi>Good Eye-ſalve.</hi> This laſt is implyed.</p>
+            <p>Thirdly, What uſe; And that likewiſe is three-fold:</p>
+            <p n="1">1. <hi>To inrich us.</hi> 2. <hi>To cloth us.</hi> 3. <hi>To make us ſee.</hi>
+            </p>
+            <div type="part">
+               <head>The Senſe of the Text.</head>
+               <p>
+                  <hi>I counſell thee, &amp;c.</hi> This manner of ſpeech is not ſo fre<g ref="char:EOLhyphen"/>quent, for God doth ordinarily command, or reprove, or in<g ref="char:EOLhyphen"/>ſtruct, or threaten, or promiſe, and moſt things in Scripture may be referred to thoſe heads.</p>
+               <p>But this Text hath another face, and comes in another
+<pb n="4" facs="tcp:161193:4"/> forme; It is a counſell or wholeſome advice to this Church, which in the precedent <hi>verſes,</hi> is inſtructed, reproved, and threatned; and here counſell is added to the former, and in it you may diſcerne much Love and Wiſe<g ref="char:EOLhyphen"/>dome; Love deſiring her good, and adviſing her to a way that might prevent her Ruine; Wiſedome likewiſe ap<g ref="char:EOLhyphen"/>peares, in that the Lord Jeſus Chriſt, offering to ſell theſe Commodities, doth not command us to buy them, nor force us to have them, but doth, as men that bring their Commo<g ref="char:EOLhyphen"/>dities to the Market, ſhew them, and ſet them forth, com<g ref="char:EOLhyphen"/>mend them, but leave it to their owne choice to buy what they pleaſe; yet if a friend come, they will adviſe him to buy, and give their word, and pawne their credit for the goodneſſe of the Commoditie: So the Lord Chriſt would have you take his word for theſe Wares, and to goe through with the bargaine, and not want them any longer.</p>
+               <p>And that we may ſee reaſon to buy them, conſider what they are, Gold, Raiment, and Eye-ſalve. We are by nature poore, here is gold to inrich us; and we are naked, here is raiment to clothe and cover us; we are born blind and here is eye-ſalve to cure us; gold for our eſtates, raiment for our bodies, eye-ſalve for the chiefe of our ſenſes.</p>
+               <p>What pincheth more then Povertie? What ſhames us more then Nakedneſſe? What grieves us more then Blind<g ref="char:EOLhyphen"/>neſſe? Here is a remedy for every of theſe Maladies, here is a plaiſter for every wound, and by the epithites given, you may perceive that here are no drugs, no counterfeit wares, but all of the beſt, the very beſt that Heaven can afford; tryed gold, pure raiment, excellent eye-ſalve; What more precious then tryed gold? What more glorious then white raiment? What better for a blind man then good eye-ſalve? But I need not ſet forth the goodneſſe of theſe Wares, they will commend themſelves.</p>
+               <p>Yet a word to tell you what they are, (if I can) but there is ſome difficultie in that.</p>
+               <p>
+                  <hi>Laodicea</hi> was a true Church, for it was planted in the Apoſtles times, and <hi>Paul</hi> gave charge that his Epiſtle to the
+<pb n="5" facs="tcp:161193:4"/> 
+                  <hi>Coloſſians</hi> ſhould be read in the Church of the <hi>Laodiceans,</hi> and that they ſhould reade the Epiſtle from <hi>Laodicea, Col.</hi> 4.16.</p>
+               <p>Therefore they had ordinances, and we cannot conceive but that they were pure, for thoſe times did not admit of impuritie in the Ordinances of Chriſt: We cannot thinke they wanted Officers, for the Apoſtles would looke to that in all the Churches; nor can we imagine they wanted Diſ<g ref="char:EOLhyphen"/>cipline and Government; a Church Conſtituted ſo early in the firſt day of the Goſpell could not but be well erected. And in the reproofe of this Church, they are not taxed for want of theſe, or any of them; nay, they write to <hi>Paul</hi> (as <hi>Calvin</hi> thinks) and if there had beene ſuch a defect in their Church, the Epiſtle to the <hi>Coloſſians</hi> would not have ſupply<g ref="char:EOLhyphen"/>ed that want, for it ſpeakes nothing of Government, and he gives order it ſhould be communicated to them.</p>
+               <p>Therefore according to the tenor and ſcope of the charge brought againſt this Church, we may ſafely ſay, that their graces and gifts, were not ſo good, ſo rich, ſo right, as ſhould have beene; for their works are challenged, <hi>verſ.</hi> 15. <hi>I know thy workes,</hi> and their zeale was not good, it was not hot enough: Therefore I thinke the conſtitution of the members of their Church was not good, they were not zea<g ref="char:EOLhyphen"/>lous, not fervent in ſpirit; and if that be a heat ariſing from many graces, or if but one, yet a defect therein proves a want and decay in others, ſo that their graces were not gol<g ref="char:EOLhyphen"/>den but rather copper; and <hi>Laodicea</hi> being a rich Citie, and dealing in Merchandize, they might rather looke after the materiall gold, and after pure raiment for the body, then theſe golden and ſilver graces. The Chuch in the Conſtituti<g ref="char:EOLhyphen"/>on of it might be good, yet the members reſting in their Church-priviledges, and in the abundance of outward things, might be wanting in their graces, the doctrine of faith might be pure and ſound, and yet the grace of faith might not be good and ſaving in them; their worſhip might be pure, and yet they not zealous for that God they wor<g ref="char:EOLhyphen"/>ſhipped. In this great houſe of the Church of <hi>Laodicea,</hi>
+                  <pb n="6" facs="tcp:161193:5"/> the members, many of them, were not veſſells of gold and ſilver, but of wood and earth. 2 <hi>Tim.</hi> 2.20. therefore they are juſtly reproved.</p>
+               <p>Other things might be faultie in this Church, but I name this, as being cleare, and it will make way for our better inſtruction.</p>
+               <p>Let us begin with ſome Obſervations; and firſt, you may ſee plainly in your view, from the beginning of the Text this to be offered.</p>
+               <p n="1">1. <hi>Obſerv.</hi> That the Lord Jeſus Chriſt, doth not al<g ref="char:EOLhyphen"/>waies command like a King, but ſometimes counſells like a Friend.</p>
+               <p>We read in <hi>Epheſi.</hi> 3.10. of the manifold wiſedome of God, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>multiformis ſapientia,</hi> a wiſedome that hath many faces, and lookes variouſly; ſometimes God ſpeakes like a King, and ſometimes like a Judge, and ſome<g ref="char:EOLhyphen"/>times like a Friend; In precepts Authoritie, in reproofes Anger, in threatnings Severitie, in counſells Love, and care of our good moſt appeares.</p>
+               <p>To counſell one, it is to propound ſomething to his conſi<g ref="char:EOLhyphen"/>deration that is fit for him to thinke of, and uſefull for him to doe, and it ſuppoſeth ſome principles in a man whereby he is counſelable; and there is nothing to which we are counſelled, but the ſame things are alſo commanded, onely the manner is more taking, and the matter muſt be of im<g ref="char:EOLhyphen"/>portance, elſe we take it not into conſideration, <hi>Prov.</hi> 22.20. <hi>Have I not written unto thee excellent things in counſells and knowledge.</hi>
+               </p>
+               <p>To counſell us.</p>
+               <p>Firſt, It is a rationall way, and fit to worke upon a man, and God that tryes alwaies to doe us good, takes this courſe to counſell us, <hi>Hoſ.</hi> 11.4. <hi>I have drawn thee with cords of a man, and bands of love;</hi> I have dealt with thee <hi>more human<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> for man is counſelable, but ſo is not a beaſt; <hi>coge pecus,</hi> you force a beaſt, but man is to be perſwaded; ſpeake reaſon, and expreſſe love, and you cannot be deſpiſed or ſleighted, reaſon cannot be gain-ſayed; though the man will not con<g ref="char:EOLhyphen"/>feſſe
+<pb n="7" facs="tcp:161193:5"/> he is conquered by your argument, yet the underſtand<g ref="char:EOLhyphen"/>ing ſecretly muſt aſſent, and love cannot be contemned; the partie may, but love cannot; but when the Wiſe God ſhall ſpeake reaſon, and manifeſt his love, we ſhould not deſpiſe his counſell: Nay, many joyne together in this coonſell, ſo the word imports, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> to counſell with others, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>conſilium quod aliqui ſimul ineunt,</hi> God counſells you, his Spirit counſells you, his Meſſengers counſell you, and your owne Conſciences counſell you. For as <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> is a knowing together, ſo <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> is conſelling together; di<g ref="char:EOLhyphen"/>vers ſit in counſell together about the good of man; and hereby it appeares how we ſhould eſteeme of the kindneſſe of God; the word is <hi>Mat.</hi> 12.14. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, they held a counſell that was againſt Chriſt, but the bleſſed Trinitie hold a counſell for the good of man; Let us make man, let us redeeme man, and adviſe him for his good.</p>
+               <p>Secondly, It is very fit and proper for the action of buy<g ref="char:EOLhyphen"/>ing, you ſhall not be compelled to buy the Commodities here offered, but you ſhall uſe your reaſon, whether a poore man ſhould not doe all he can to get good gold, and a naked man clothing. But here I muſt needs explain this point, leſt we ſhould thinke that a man were left to his owne liberty in the point of his converſion, and this <hi>ſimile</hi> of counſelling to buy muſt not be extended beyond the ſcope; and we ſay, That the will of man is over-ruled, and over-powred by the Spirit of Chriſt, ſo as it cannot but come in upon the offer of grace, and the will is determined to one thing, not left to it ſelfe, to take or refuſe what is tendered to it; and it is no abſurditie (whatever <hi>Arminians</hi> thinke) to ſay, in the converſion of a ſinner there is a violence offered to the corruption of the will, and yet the will not wronged, a ſuſpending of the libertie of the will, and no deſtroying of it.</p>
+               <p>If you conſider a man affrighted out of his ſinnes in a way of terrour, as the Gaoler, <hi>Act.</hi> 16.29. who <hi>came trem<g ref="char:EOLhyphen"/>bling;</hi> you may ſay he could doe no other. Suppoſe a man purſued by a Beare or any ravenous Beaſt, if he have the
+<pb n="8" facs="tcp:161193:6"/> uſe of his leggs, and of his reaſon, he cannot but runne a<g ref="char:EOLhyphen"/>way from the danger; Hell frights the ſinner, Conſcience flyes in his face, and he cannot but come to Chriſt.</p>
+               <p>The propenſitie and act of the creature may be ſuſpen<g ref="char:EOLhyphen"/>ded, and not deſtroyed; the Lyons could not devoure <hi>Da<g ref="char:EOLhyphen"/>niel,</hi> the fire could not burne the three young men; God did ſuſpend the act of thoſe creatures, but their natures were not deſtroyed, for their enemies found the Lyons to be fierce, and the fire to burne; the will of man chooſeth to come, and cannot doe otherwiſe, for it is moved and guided by a ſupernaturall power.</p>
+               <p>Thirdly, God doth counſell us, for in all things of any importance we take counſell, here is more need, and if we follow our owne counſells we periſh, <hi>Prov.</hi> 11.14. <hi>Where no counſell is, the people fall: but in the multitude of counſel<g ref="char:EOLhyphen"/>lers there is ſafetie,</hi> Prov. 20.18. <hi>Every purpoſe is eſtabliſhed by counſell, and with good advice make warre.</hi> If in other things we take advice and not this, it ſhewes we are more careleſſe of Heaven then our affaires on earth.</p>
+               <p n="1">1. <hi>Uſe.</hi> Take counſell of him that is wiſe, and reject it not; leane not to your owne wiſedome, for that will de<g ref="char:EOLhyphen"/>ſtroy you. A man that followes his owne thoughts in mat<g ref="char:EOLhyphen"/>ters of Religion, is ſure to miſſe his way, and loſe his hope: The counſell of God is good, we cannot ſay ſo of the wiſeſt man, but his counſell is good at all times, for he knowes all things and all events, which no man doth, <hi>Prov.</hi> 19.20. <hi>Heare counſell, and receive inſtruction, that thou mayeſt be wiſe in thy latter end.</hi>
+               </p>
+               <p n="2">2. If we doe not, we ſet up our owne thoughts and wiſedome above Gods, and we oppoſe Chriſts Propheti<g ref="char:EOLhyphen"/>call and Kingly Offices.</p>
+               <p n="3">3. Grace makes us teachable, and men ſhould inquire what they ought to doe, <hi>Act.</hi> 2.37. <hi>Men and brethren, what ſhall we doe?</hi> Act. 9.6. <hi>Lord, what will thou have me to doe?</hi> And they obeyed and followed the directions of the Apo<g ref="char:EOLhyphen"/>ſtles; <hi>David</hi> did bleſſe God for <hi>Abigails</hi> counſell, 1 <hi>Sam.</hi> 25.22, 32. And if we receive not the counſell of God, we
+<pb n="9" facs="tcp:161193:6"/> ſhall in the end bewaile our folly, and read our miſery, ariſing from our own rebellious and deſperate denyalls of grace; and as the Phariſees reiected the counſell of God againſt themſelves, ſo doe many in theſe dayes.</p>
+               <p>
+                  <hi>I counſell thee to buy of me gold tried in the fire, and white raiment.</hi>
+               </p>
+               <p n="2">2. <hi>Obſerv.</hi> It is the wiſedome of men to buy grace, and the meanes of grace, whatever they coſt them.<note place="margin">Qualis emptio abſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> pretio? Quomodo hoc convenit mag<g ref="char:EOLhyphen"/>nificentiae Dei ſi emenda eſt il<g ref="char:EOLhyphen"/>lius gratia? pa<g ref="char:EOLhyphen"/>rum laudis ha<g ref="char:EOLhyphen"/>bet <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ns cujus aquae venales habentur.</note>
+               </p>
+               <p>
+                  <hi>Obj.</hi> But how can wee buy? What ſhall wee give to God for theſe rich Commodities? And how can it ſtand with the bountie of God to ſell them to us? And how doth it under-value the grace of God when it is offered to ſale?</p>
+               <p>
+                  <hi>Solut.</hi> For anſwer to this objection, and for opening of the point propounded, wee muſt know, That the grace or favour of God cannot be bought at all. And wee muſt di<g ref="char:EOLhyphen"/>ſtinguiſh between <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, the free grace of God, his good will and pleaſure, which is from all eternitie, and the fruits thereof, the gifts of the Spirit, together with all the meanes by which the Spirit workes in the hearts of Gods Elect: Theſe latter are here offered to you to be ſold, not the former.</p>
+               <p>We cannot properly buy ſo as to give a valuable conſide<g ref="char:EOLhyphen"/>ration for theſe Heavenly Commodities; to buy, is to give a price to the ſeller, for which he makes over his right to you, and puts you in poſſeſſion of that which was his.</p>
+               <p>But properly we cannot buy ſo as to give a valuable con<g ref="char:EOLhyphen"/>ſideration: And that becauſe,</p>
+               <p>Firſt, All things are Gods already, unleſſe it be your ſinnes, the Cattell upon a thouſand Hills are mine, ſaith God, <hi>Job</hi> 41.11. <hi>Whatſoever is under the whole heavens is mine:</hi> So that you cannot pay God with his owne, for if I buy of a man I give him ſomewhat that is mine, and receive of him ſomewhat that is his.</p>
+               <p>Secondly, All things that we have are inferiour to grace, and the meanes of grace, they are but tranſitory and fading, but Heavenly things are laſting and durable, and there is no
+<pb n="10" facs="tcp:161193:7"/> proportion betweene the largeſt offer of thouſands of Rams, and ten thouſand Rivers of Oile, and the leaſt dram of ſaving-grace, and we muſt not thinke that mony or mo<g ref="char:EOLhyphen"/>ny-worth can purchaſe Heaven or grace; nay, to take off our thoughts, the Lord tells us his mind, <hi>Iſa.</hi> 55.1. <hi>Buy wine and milke without money.</hi>
+               </p>
+               <p>But what muſt be done?</p>
+               <p>Firſt, Buy it with thy prayers and teares, and tell the Lord thou haſt need of them, and cannot live without them; <hi>Rome</hi> teacheth her children to buy grace with the improve<g ref="char:EOLhyphen"/>ment of parts of nature, and to buy Heaven with their good workes, and tell us of ſuch perfection in ſome workes, that there is no ſinne in them; but when they offer ſo largely, God muſt truſt them, for they have no ready money; but we teach our Chap-men to turne poore beggers, and you may get more by begging at the hands of God, then by working, and yet we beg a ſtock of grace that we may goe to worke.</p>
+               <p>Secondly, Buy it with thy labour and toile, travell for it if thou haſt it not at home; the ſonnes of <hi>Jacob</hi> goe into <hi>Egypt</hi> if there be no Corne in their owne Countrey, and what paines men take to get the Commodities of the world, they ſhould doe more for Heaven; in former times, before this Parliament ſate, there was a great ſcarcitie, the markets did riſe, there is now more plentie; but the evill of the preſent times is, that there is a price in mens hands, and they have not hearts.</p>
+               <p>Thirdly, It may be it will coſt thy purſe, if with the Merchant in the Goſpell thou haſt found the Pearle, buy it though thou ſell all<g ref="char:punc">▪</g> 
+                  <hi>Mat.</hi> 13.46. and it would further your accounts, if your Bills of expence for Building, for Purcha<g ref="char:EOLhyphen"/>ſes, for Portions, nay, for Sports and Recreations, (which riſes to great ſummes) you could bring in ſomewhat an<g ref="char:EOLhyphen"/>ſwerable for the Goſpell and Religious uſes.</p>
+               <p>Whatſoever it will coſt thee, breake not for price, buy it at any Rate.</p>
+               <p>Firſt, It will inrich thee, you may buy Land too deare, and Gold too deare, but grace and the meanes of grace
+<pb n="11" facs="tcp:161193:7"/> cannot be bought too deare, nay, the dearer bought the bet<g ref="char:EOLhyphen"/>ter, you will keepe it the better, and eſteeme it the more: The more it coſts a Chriſtian to get Chriſt, and obtain aſſu<g ref="char:EOLhyphen"/>rance of Gods love, the better it is, <hi>Prov.</hi> 3.14. <hi>The mer<g ref="char:EOLhyphen"/>chandiſe of wiſedome is better then the merchandiſe of ſil<g ref="char:EOLhyphen"/>ver, and the gaine thereof then fine gold, more precious then the rubies, and all the things thou canſt deſire are not to be compared to her.</hi>
+               </p>
+               <p>Secondly, It is of generall uſe for all perſons, and at all times, when you ſhall throw away your gold and ſilver, a dram of grace ſhall be in great eſteeme and will comfort your ſoules: Religion is not like a Souldier in time of Peace, or a Chimney in Summer, but of good &amp; neceſſary uſe at all times; in proſperitie to teach you moderation, in adverſity to beare up your ſpirits, in life, in death it is a Crowne to you.</p>
+               <p>Thirdly, This Bargaine proves better then was concei<g ref="char:EOLhyphen"/>ved; temporall things ſeeme better then they prove, and no man finds that in them which he imagined; but ſpiritu<g ref="char:EOLhyphen"/>all riches afford more to the ſoule then at firſt was beleeved; here that's true, <hi>It is naught, it is naught, ſaith the buyer; but when he goeth apart he boaſteth,</hi> namely, of his great pennyworth, <hi>Prov.</hi> 20.14.</p>
+               <p>Therefore be as the buyer in theſe particulars:</p>
+               <p>Firſt, find thy need of theſe Commodities, let thy ſoule ſay to God, give mee Chriſt and Faith, or elſe I dye; you muſt not ſo thinke or ſpeake of any thing elſe.</p>
+               <p>Secondly, See the goodneſſe of them, you cannot know the excellency of them till you be inſtructed and have ex<g ref="char:EOLhyphen"/>perience, you cannot ſee till you have this eye-ſalve; and therefore no wonder if the Lord Chriſt offer his Commo<g ref="char:EOLhyphen"/>dities, and put off but little, becauſe men know not the worth of them.</p>
+               <p>Thirdly, No deceit in this bargaine, you ſhall not be o<g ref="char:EOLhyphen"/>ver-reached, faire and plaine dealing to them that will buy the truth; <hi>Rome</hi> ſells you ſophiſticated and adulterated Wares, and her Tradeſmen have darke Shops, and falſe
+<pb n="12" facs="tcp:161193:8"/> Lights, and will not have the people to know, or be able to judge of theſe Commodities; they muſt not looke into the Scriptures, nor underſtand the Doctrine of Faith, but take all upon their word, and beleeve as the Church doth; but the Text offers tryed gold; And wee muſt try all things, and hold that which is good.</p>
+               <p>
+                  <note place="margin">
+                     <hi>Mat. 6.<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>0.</hi> 
+                     <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Domi<g ref="char:EOLunhyphen"/>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> quo ſ<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> vel <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> ad <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> de<g ref="char:EOLhyphen"/>beant pe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>petuò <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. <hi>Muſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> Quia minus ra<g ref="char:EOLhyphen"/>tione co<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ta<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> eſt quam <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> locare ubi vel ſp<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>te <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> ab ho<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ibus?</note>Fourthly, Theeves cannot breake through and ſteale theſe Commodities; As there is a greater excellency, ſo more certaintie in them. In all the troubles and perſecutions in the world, if you keepe your courage and reſolutions, and would not part with your riches, neither Devills nor men can rob you of them; you may have the gold and ſilver in your Cheſts taken from you by violence, and your eſtates wrung out of your hands, but your graces cannot be loſt unleſſe you conſent to loſe them; and they being of ſo high a nature, and ſo great worth, get them whatever they coſt you, and keepe them carefully as you doe your gold.</p>
+               <p>Firſt, The more to perſwade you to this, conſider fur<g ref="char:EOLhyphen"/>ther of this two-fold <hi>Simile</hi> of tryed gold and white rai<g ref="char:EOLhyphen"/>ment. He that hath gold hath all things vendible, he may have Houſe, Lands, an Office, Honour and Preferment, and whatever (of this nature) he can deſire: for gold will procure it, and gold vertually includes all things that are to be ſold.</p>
+               <p>
+                  <note place="margin">1 Cor. 3 22.</note>So he that hath Chriſt, and Faith, and other graces, hath all things Heavenly; all are yours, none can ſpeake ſuch Language as Beleevers; other men may have a great deale, <hi>Eſau</hi> may have enough,<note place="margin">Ge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>3 9.</note> but <hi>Jacob</hi> hath all. None ſo rich as the people of God, they have in their poſſeſſion all the fine gold and rich raiment, they are well clad, and richly furni<g ref="char:EOLhyphen"/>ſhed, and they ſhould live anſwerably; they have got ſuch a bargaine at the hands of Jeſus Chriſt as hath made them for ever, and they ſhould rejoyce in their condition; rich men pleaſe themſelves in telling their gold, and thinking of their wealth; let the Chriſtian looke upon his graces and priviledges with delight, and take great contentment in them.</p>
+               <pb n="13" facs="tcp:161193:8"/>
+               <p>Secondly, He that hath tryed gold needs not feare the touch-ſtone, he that hath tryed graces needs not feare fur<g ref="char:EOLhyphen"/>ther tryalls; It ought to be the care of every one to ſee that his graces be of a right kind, that he have gold, not braſſe: Many Proteſtants in the Church of <hi>England</hi> have too much pleaſed themſelves with Copper Faith, or they have taken a guilded gliſtering piece of wood for gold; there is that which lookes like faith, and zeale, and love, but is not ſo indeed. Wee ſhould try all things, wee take not a piece of gold or ſilver but weigh and ring it, becauſe wee would not be deceived; and it were a ſhame for a man to put off his Commodities, and thinke he hath made a good bargaine, when the money that he receives is falſe and counterfeit Coine. It is an evill thing to reſt in a ſhew or forme of godlineſſe, all that comes of it is to be thought by our ſelves and others that wee are Religious: The Phariſees had a name, they were eſteemed by the ignorant people to be de<g ref="char:EOLhyphen"/>voute; but what will that availe in the day when our workes muſt be tryed by fire? It is onely gold a ſolid me<g ref="char:EOLhyphen"/>tall that will indure the fire, hay and ſtubble, and all light ſtuffe will burne and conſume away.</p>
+               <p>
+                  <hi>Luther</hi> ſpeakes of one <hi>Arſenius</hi> that had eminent gifts, and made a profeſſion of Religion, and was more forward then others; who being ſick, his friends and acquaintance viſited him, and for his comfort told him that he could not but have a great deale of joy and peace that was farre be<g ref="char:EOLhyphen"/>fore many others in Religion; he anſwered them, That he had not ſo much comfort as they imagined, and he now found it to be with his ſoule, not according to what they thought of him, but according to the judgement that God paſſed upon him, and God judgeth (ſaid he) not after an outward appearance, but with a righteous judgement.</p>
+               <p>It were a vain thing in a man, that being Arreſted and go<g ref="char:EOLhyphen"/>ing to Priſon, ſhould charge the Officers with doing him wrong, becauſe he was eſteemed by all his nighbours a rich man, and worth many thouſand pounds; in ſuch a caſe the name of a rich man will neither free from danger, nor pay
+<pb n="14" facs="tcp:161193:9"/> debts. But he that hath this tryed gold hath enough to pay his debts, and a ſtock to live upon beſides, he feares no danger, no trouble, no perſecution, not death, no not the fiery tryall, for his tryed gold will hold out and paſſe for currant, when all gilding will waſh off and waſte away. Great then may be the comfort of ſuch as looke after truth and the realitie of graces, they are happy both in life and death, they are rich, and ſhall carry their wealth with them into Heaven: You muſt part with your friends when you dye, and you muſt leave your riches behind you, but your graces ſhall goe with you.<note place="margin">Vincent. in Specul. Mora.</note> To ſet out the dignitie of them above your materiall gold, One tells you a Story of a man that had a Suit, and when his Cauſe was to be heard, he ap<g ref="char:EOLhyphen"/>plyed himſelfe to three friends to ſee what they would doe with him; one anſwered him, he would bring him as farre on his journey as he could; the ſecond promiſed him to go with him to his journeys end; the third ingaged himſelfe to goe with him before the Judge, and to ſpeak for him, and not to leave him till his Cauſe was heard and determined. Theſe three are a mans Riches, his friends, and his graces; his riches will helpe him to comfortable accommodations while they ſtay with him, but they may take their wings and flye away from him before he dye. His friends and kindred they will goe with him to his journeys end, bring him to the grave, and interre his body, &amp; then they leave him to his graces;<note place="margin">
+                     <hi>Miſericordia comes defun<g ref="char:EOLhyphen"/>ctorum.</hi> It is true of that and all o<g ref="char:EOLhyphen"/>ther graces. Rev. 14.13.</note> they go further, &amp; accompany the ſoule when it goes before God, and ſpeake for him, and doe more for him then the other can doe: <hi>Bleſſed are the dead that dye in the Lord, they reſt from their labours, and their workes fol<g ref="char:EOLhyphen"/>low them</hi>
+               </p>
+               <p>But ſad is the condition of evill men, for when they ap<g ref="char:EOLhyphen"/>peare before God, there will be no Interceſſor for to ſpeak for them, their ſinnes will dogge them even unto the Tribu<g ref="char:EOLhyphen"/>nall Seat of God, and drag them downe to Hell.</p>
+               <p>Wee have done with the <hi>tryed gold,</hi> now a word or two of the <hi>white raiment;</hi> by which is underſtood our Juſtifica<g ref="char:EOLhyphen"/>tion, and Sanctification, Ordinances and Graces, and to
+<pb n="15" facs="tcp:161193:9"/> ſhew the glory and puritie of them they are ſet out under white raiment. White is a pure colour, and betokens inno<g ref="char:EOLhyphen"/>cencie; by nature wee are naked, but here is a glorious gar<g ref="char:EOLhyphen"/>ment. White is more excellent then Scarlet, for it is a natu<g ref="char:EOLhyphen"/>rall colour, and all naturall beautie is above that which is artificiall;<note place="margin">Mat. 6.29. Mat. 17.2.</note> 
+                  <hi>Solomon</hi> in all his glory was not like the Lillies of the Field. When Chriſt was tranſfigured on the Mount his raiment was white; and the glorious condition of the Saints in Heaven is ſet out in this,<note place="margin">Rev. 19.14.</note> that they ſhall be <hi>clothed with fine linnen, white and cleane.</hi>
+               </p>
+               <p>No doubt this Church was exhorted to looke after their Juſtification, to joyne nothing with the righteouſneſſe of Jeſus Chriſt who is ſet out to be white and ruddy,<note place="margin">Cant. 5.10.</note> and to preſerve the doctrine of it pure and cleane; and alſo San<g ref="char:EOLhyphen"/>ctification is herein compriſed, ſo that the former point is now propounded under another compariſon of white rai<g ref="char:EOLhyphen"/>ment, and wee are to be perſwaded to buy it: And there<g ref="char:EOLhyphen"/>fore con<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ider,</p>
+               <p>Firſt, It is of neceſſitie to have raiment, wee muſt not goe naked; It is a ſhamefull imagination in ſuch as in imi<g ref="char:EOLhyphen"/>tation of <hi>Adams</hi> perfection will pray, and preach, and heare naked; they ſhould be aſhamed of it:<note place="margin">Auguſt. <hi>14.</hi> de Civit. dei. c. <hi>12.</hi>
+                  </note> And wee ſee that nature teaches us to looke for a covering for the body, and the Text perſwades us to get this white raiment for the ſoule; food and raiment muſt be had, and men of quality will have garments anſwerable to their condition; and whereas there is varietie of clothing for the body, nothing will ſerve the turne for the ſoule but this white raiment,<note place="margin">Rev. 3.</note> wee muſt have long white robes, the righteouſneſſe of Jeſus Chriſt is long enough to cover us all over,<note place="margin">Rev. 7.</note> but every thing elſe is too ſhort and narrow; he finds us naked, and gives us his owne robes, that our nakedneſſe may not ap<g ref="char:EOLhyphen"/>peare; and he makes a garment for us; he cauſeth inherent graces to grow and abound in us, but wee muſt not thinke that our graces helpe to cover us as a piece to be added, for nothing can adde to our Juſtification, or to our title, wee may as ſoone guild gold with clay, as by any graces or ſer<g ref="char:EOLhyphen"/>vices
+<pb n="16" facs="tcp:161193:10"/> of ours make our ſelves in a better condition. Wee muſt <hi>put on the Lord Jeſus Chriſt,</hi>
+                  <note place="margin">Rev. 13.14.</note> and that's ſufficient to preſent us faultleſſe and blameleſſe before God.</p>
+               <p>Secondly, It is for honour and ornament white clothing was uſed in Kings Courts, and he that hath this raiment ſhall be in the Court of Heaven; great men are diſtingui<g ref="char:EOLhyphen"/>ſhed by their apparell, yet ſome are ſo proud that they care not what they lay upon their backs, and you cannot know by their out-ſide what they are, but this white rai<g ref="char:EOLhyphen"/>ment is onely for the Kings Children, and they are glorious within. <hi>Dives</hi> baſe in heart, having nothing but rottenneſſe within, yet was clothed with Purple and fine linnen; but the Saints are made glorious and excellent when this rai<g ref="char:EOLhyphen"/>ment is upon them, and in Heaven when no apparell ſhall be upon their bodies, yet that <hi>ſtola corporis</hi> ſhall be glori<g ref="char:EOLhyphen"/>ous, as that the beames thereof ſhall be much better then any garment to cover them, and no nakedneſſe can appeare to cauſe any ſhame.</p>
+               <p n="1">1. <hi>Uſe.</hi> And hence you are to be exhorted to get this white raiment: None but mad-men goe naked, none but beggars goe in patched clothes; here is a garment, and it is glorious; It is made ready for you, and there wants no<g ref="char:EOLhyphen"/>thing but putting it on. And what contempt will this be, that apparell be brought home to you, laid on the Table by you, and you will not put it on, and weare it, but gee in your owne rags, and live and dye in your ſins?</p>
+               <p>Secondly, This raiment will fit you, and well become you, and you will appeare glorious, and be ſo indeed: A Stage-Player that perſonates a King hath clothes anſwera<g ref="char:EOLhyphen"/>ble, yet is a baſe fellow; and in the end of the Play, when he puts off his clothes it appeares ſo: but this will befall none that have true faith in Chriſt. Hypocrites will be un<g ref="char:EOLhyphen"/>caſed, but all elſe ſhall weare their clothes unto eternitie, and never put them off. Nay, they cannot be without them; this white raiment ſhall never decay, nor be worſe for wearing, it will fit all perſons, and at all ſeaſons; and therefore buy it at any rate.</p>
+               <pb n="17" facs="tcp:161193:10"/>
+               <p>Thirdly, And if you feare your money will not hold out to make ſuch a great purchaſe, then know, that your God will not ſtand with you for price; hee ſaith not you muſt have ſo much Faith as <hi>Abraham</hi> had, ſo much Zeale as <hi>Phineas,</hi> ſo much Courage as <hi>David,</hi> ſo much Wiſe<g ref="char:EOLhyphen"/>dome as <hi>Solomon,</hi> or elſe you cannot be ſaved: No ſuch thing is ſaid in Scripture; but if you ſee the uſeful<g ref="char:EOLhyphen"/>neſſe of theſe Commodities, and deſire them, and will uſe all good meanes to obtaine them, you ſhall certainly have them; nay, you have them already. For this is one difference betweene Temporall and Spirituall things, the evill of the one ſort cleaves to you before.</p>
+               <p>Fourthly, You have them, you are covetous before you be rich; but in thoſe Heavenly Bleſſings you looke after, you have them, and the good of them, when you firſt make after them. He that really and unfainedly deſires Chriſt, and Faith, and other graces, hath them already in ſome degree, and ſhall have more, for all ſupernatu<g ref="char:EOLhyphen"/>rall deſires come not from nature, but our Union with Chriſt.</p>
+               <p>Fifthly, And the laſt thing to be urged, is, That ſuch as have this white raiment ſhould carefully keepe it: A ſpot in a pure colour is a great blemiſh, and ſoone diſcern<g ref="char:EOLhyphen"/>ed. It is pittie to ſee Chriſtians walke looſly or indiſcreet<g ref="char:EOLhyphen"/>ly, but worſe if ſcandalouſly;<note place="margin">Rev. 16.15.</note> If they bee bleſſed that watch and keepe their garments, what will become of them that defile them? It is a glorious thing to maintaine an unſpotted profeſſion to the end. And in caſe wee have taken a fall, and fouled our clothes, let us not lye ſtill, and wallow in the mire, but riſe, and waſh our garments till wee make them white in the blood of the Lambe.<note place="margin">Rev. 7.14.</note> Men muſt have clothes though they goe upon truſt, and runne into debt; and when they have them they ſhould keepe them carefully; For the Wiſe man bids you to have your garments white at all times.<note place="margin">Eccl. 9.8.</note> How will this condemne
+<pb n="18" facs="tcp:161193:11"/> many that live in the viſible Church, that have never a ragge to cover their nakedneſſe, and yet are contented with it? Others take up a profeſſion of Religion, and yet keepe not their garments cleane; they goe unhand<g ref="char:EOLhyphen"/>ſomely and ſlovenly.<note place="margin">1 Joh. 3 9.</note> It is ſaid, <hi>That hee that is borne of God cannot ſinne,</hi> he hath another nature given him; and while he is himſelfe, he cannot goe againſt the principles of grace, as a neat cleanly man would not doe a ſlovenly act though no body ſhould ſee him; and a curious worke<g ref="char:EOLhyphen"/>man cannot bungle, ſo a godly man cannot ſinne and tum<g ref="char:EOLhyphen"/>ble <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the mire, for he is a Sheepe, not a Swine. It is re<g ref="char:EOLhyphen"/>ported of the Ermin, which is a neat creature, that if a puddle be on the one ſide, and Dogs on the other, he will chooſe to dye rather then defile himſelfe. I wiſh wee could ſee this cleanlineſſe in Chriſtians; It ought to be ſo, and Schoole-men give a good reaſon for it, becauſe grace workes not by feare onely, but by hatred: A man feares a drawne Sword when the point is ſet againſt his breſt, and it is in the hand of an enemy; but if it lye on the Table, or be in the hand of a friend, it is not feared. Men may feare ſinne when God doth threaten to run them through, but if he put up his Sword their feare is removed; there<g ref="char:EOLhyphen"/>fore the kindly worke of grace is by way of hatred and loathing; a man would not take a Toade in his hand though he knew the poyſon would not hurt him; this ha<g ref="char:EOLhyphen"/>tred and loathing of all filthineſſe and pollution ſhould be in thoſe that have this white raiment, and then they would keepe their garments cleane.</p>
+               <p>
+                  <hi>Uſe.</hi> And now give me leave to make a further applica<g ref="char:EOLhyphen"/>tion to you that are the Great Councell of the King<g ref="char:EOLhyphen"/>dome; and let me tell you, that the people of this Land looke for this pure gold and white raiment, and to pur<g ref="char:EOLhyphen"/>chaſe them they have offered faire; Their Plate, their Mo<g ref="char:EOLhyphen"/>ney, their Horſes, their Servants, and their Sonnes; they begin to feare they ſhall not have theſe Commodities
+<pb n="19" facs="tcp:161193:11"/> which they have bidden well for, becauſe in all this time they had little elſe then ends of gold and ſilver; wee will perſwade them to waite longer, and to helpe you by their prayers, that you may become the happie inſtruments of the Kingdomes good, in making the gold and raiment in the Text, as plentifull as the materiall gold was in <hi>Solo<g ref="char:EOLhyphen"/>mons</hi> time. To effect this, you have need of <hi>Solomons</hi> wiſedome; the preſent Diviſions and Diſtractions of the time require it; and unleſſe God interpoſe his owne pow<g ref="char:EOLhyphen"/>er and wiſedome, wee conceive, wee ſhall bee ſtill under the troubles of Warre, ſuch as were in <hi>Davids</hi> time; And though you doe well to thinke of building the Temple, and yee contribute ſomewhat towards it, yet wee doubt whether wee that are alive ſhall ſee it done, and injoy the peace and happineſſe of <hi>Solomons</hi> time; Yet however, let me repreſent unto you the ſtate of the people in this Land, which is much like to theſe <hi>Laodiceans,</hi> they are poore, and naked, they have thought themſelves rich in their Clergie, and honoured above others in their outward pompe and glory; and for their wealth and goods, they have abounded, and had need of nothing; now they ſee themſelves poore in every kind, and they lament their povertie, they are naked alſo, both in regard of raiment and armour, and <hi>Aaron</hi> hath made them ſo, <hi>Exod.</hi> 32.25. They hope that you will take care to inrich them, and provide ſuch as will clothe them. You did purge the Sonnes of <hi>Levi,</hi> and tooke away many that were no better then droſſe and Tin; you now give over. It is much feared, leaſt many Congregations ſhall ſtill be poore and naked; the people deſire a golden miniſtery, ſuch as have golden gifts and graces, and then they hope there will be golden Chriſtians; and the golden dayes will come, in ſo much as in you lyes, you ſhould pittie and relieve the Kingdome herein, by ſetting up a godly miniſtery, and countenancing it againſt the reproach and contempt of
+<pb n="20" facs="tcp:161193:12"/> theſe preſent times, which is greater then heretofore hath beene knowne. Wee thought the witneſſes had been ſlain, becauſe it is ſaid, in <hi>Rev.</hi> 11.3, 7, 9. that after they had Pro<g ref="char:EOLhyphen"/>pheſied in ſackcloth a long time, then they were killed, and then they were unburied three dayes and a halfe; There is no doubt but godly Preachers (among others) were the witneſſes that gave teſtimony to the truth, and they have Propheſied mournfully, even in ſackcloth a long time together, and then they were ſlaine, they were ſuſ<g ref="char:EOLhyphen"/>pended, which was a civill death; they were not killed as men, but as Prophets, and they were in the ſtreets as dead men, not ſuffered to execute their Miniſteriall Fun<g ref="char:EOLhyphen"/>ctions; and this was for three dayes and a halfe, and the time of continuing the ſuſpenſion of many Miniſters by the Biſhops, which was three yeares and a halfe, did fall out ſo pat and punctuall, as it might well be thought to be the ſlaying of the witneſſes in <hi>England.</hi> It is not ne<g ref="char:EOLhyphen"/>ceſſary to make this killing of the witneſſes, to be in all places at the ſame time, but that it fell out among us at this time; the words following in the Text plainly ſhew; for af<g ref="char:EOLhyphen"/>ter that time of three dayes and a halfe, the Spirit of Life entred into them, and they lived againe as Prophets, and were reſtored, and great feare fell upon men. Thoſe that were Actors in killing them, deſired them to goe and de<g ref="char:EOLhyphen"/>ſire their freedome, which was quickly and eaſily gran<g ref="char:EOLhyphen"/>ted, they were glad to be rid of them:<note n="*" place="margin">Ornati <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>;u<g ref="char:cmbAbbrStroke">̄</g>mo honore &amp; glo<g ref="char:EOLhyphen"/>ria ad exemplu<g ref="char:cmbAbbrStroke">̄</g> Ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iſti qui poſt mortem debel<g ref="char:EOLhyphen"/>latam ſublatus eſt in caelum quod autem vox auditur jubens aſcen<g ref="char:EOLhyphen"/>dere eo ſignifi<g ref="char:EOLhyphen"/>catur non aſ<g ref="char:EOLhyphen"/>piraturas pro<g ref="char:EOLhyphen"/>phetas ad hoc honoris ſuo in arte ſed alio<g ref="char:EOLhyphen"/>rum authori<g ref="char:EOLhyphen"/>tate collo can<g ref="char:EOLhyphen"/>das eſse in iſto fa<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>igio pu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a Sol<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ni aliqua principum ſan<g ref="char:EOLhyphen"/>ctiore. <hi>Bright<g ref="char:EOLhyphen"/>man</hi> in Locum.</note> And further, to confirme this, It followes in the Text, that there was a great voice from Heaven, ſaying unto them, <hi>Come up hi<g ref="char:EOLhyphen"/>ther.</hi> Heaven is the higheſt part of the viſible World, and it reſembles men in higheſt place and power, King, and Parliament; And this great voice from Heaven was from the State; and you ſaid to poore deſpiſed Preachers, <hi>Come up hither;</hi> You gave them countenance and incourage<g ref="char:EOLhyphen"/>ment, even before their Adverſaries; You ſaid to the proud prelaticall idle Clergie, <hi>Come downe hither;</hi> and I
+<pb n="21" facs="tcp:161193:12"/> thinke you ſaid well; But to the godly deſpiſed Miniſters of the Goſpell, you ſaid, <hi>Come up, aſcend higher;</hi> and you gave them reſpect; But now there is a voice from the Earth, which ſaith, <hi>Come downe hither.</hi> The people that Petitioned you againſt the maintenance of the Miniſtery, they ſay, <hi>Come downe to us, you are too high, doe as wee doe, worke for your living as wee doe.</hi> Whether this voice from Heaven or Earth ſhall prevaile? Wee leave it with you and the God of Heaven to deter<g ref="char:EOLhyphen"/>mine: Onely let me give you an <hi>Item,</hi> to take heed in this caſe of doing, as <hi>David</hi> did betweene <hi>Mephibo<g ref="char:EOLhyphen"/>ſheth</hi> and <hi>Ziba</hi> 2 <hi>Sam.</hi> 16.3, 4. Hee accuſed <hi>Mephiboſheth</hi> that hee aſpired after the Kingdome, and looked af<g ref="char:EOLhyphen"/>ter great matters; and when the Innocent lame man had opportunitie to make his owne defence, yet <hi>Da<g ref="char:EOLhyphen"/>vid</hi> unjuſtly gave away halfe his Land to his Accuſer, 2 <hi>Sam.</hi> 19.29. They are like enough to ſay of us, <hi>W<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e would get higher, and wee looke after great matters;</hi> but take heed of dividing upon ſuch a falſe ſurmiſe; and give one halfe away to ſatisfie their deſires, and leave the other halfe for us to live upon in a poore manner. But I forbeare the further preſſing of theſe things, and in a word returne to the firſt Branch of my Exhorta<g ref="char:EOLhyphen"/>tion: I beſeech you give us nothing but gold; let not your Authoritie countenance any thing but what is good and precious; You are Gods Merchants, and you ſhould have put off more then you have done: Many things come before you, little is ſetled. It were an evill thing, for many Cauſes to come before a Judge and nothing to bee determined; The Lord quicken your ſpirits, and guide you in your way. And for you the people of this Land, bee wiſe to judge of things as they are indeed; There is gold to bee had, and white rayment, the Lord Jeſus Chriſt would ſell you theſe; You ſometimes cheapen them, and inquire
+<pb n="22" facs="tcp:161193:13"/> after them, but you goe not through with the bar<g ref="char:EOLhyphen"/>gaine. Who would want gold in his purſe, and good raiment upon his back, if hee could have them? You may have theſe if you will, and it will bee a horrid thing in the day of your account, to render and returne poore naked ſoules before Go, that might have beene inriched and clothed.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
